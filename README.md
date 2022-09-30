@@ -1,7 +1,7 @@
 # EZBoard Klipper Stuff
 Example Configurations for our EZBoards for use with [Klipper](https://github.com/Klipper3d/klipper)
 
-This is to help you get started using [Klipper](https://github.com/Klipper3d/klipper) on your EZBoard quick by providing example configurations and pre-compiled firmware for the EZBoards.
+This is to help you get started using [Klipper](https://github.com/Klipper3d/klipper) on your EZBoard quick by providing example configurations for the EZBoards.
 
 ----------
 
