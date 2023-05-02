@@ -3,8 +3,6 @@ Example Configurations for our EZBoards for use with [Klipper](https://github.co
 
 This is to help you get started using [Klipper](https://github.com/Klipper3d/klipper) on your EZBoard quick by providing example configurations for the EZBoards.
 
-----------
-
 # Advanced Users ONLY
 
 **These are provided AS-IS with no support or guarantee from TH3D Studio LLC.**
