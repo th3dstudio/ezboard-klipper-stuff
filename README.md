@@ -11,4 +11,8 @@ This is to help you get started using [Klipper](https://github.com/Klipper3d/kli
 
 [Klipper](https://github.com/Klipper3d/klipper) is an advanced, tweaking firmware that is complex to setup and use. You are welcome to use whatever firmware you wish on our boards but we only support our Unified 2 Firmware on them when it comes to what our included Technical Support covers at no cost.
 
+For setting up your SBC we recommend [KIAUH](https://github.com/th33xitus/kiauh) to set it up on a standard Linux installation.
+
 Make sure you read the official Klipper [Installation information](https://www.klipper3d.org/Installation.html) and follow their [directions](https://www.klipper3d.org/Overview.html).
+
+
