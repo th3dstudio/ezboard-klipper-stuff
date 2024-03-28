@@ -1,7 +1,7 @@
 # EZBoard Klipper Stuff
 This repo contains information for our EZBoards for use with [Klipper](https://github.com/Klipper3d/klipper).
 
-**CONFIGS AND BIN FILES ARE LOCATED HERE NOW:** [https://github.com/th3dstudio/EZKlipper/tree/main/Configs/Board%20Specific](https://github.com/th3dstudio/EZKlipper/tree/main/Configs/Board%20Specific)
+**CONFIGS AND BIN FILES ARE LOCATED HERE NOW IN OUR MAIN KLIPPER REPO:** [https://github.com/th3dstudio/EZKlipper/tree/main/Configs/Board%20Specific](https://github.com/th3dstudio/EZKlipper/tree/main/Configs/Board%20Specific)
 
 This is to help you get started using [Klipper](https://github.com/Klipper3d/klipper) on your EZBoard quick by providing example configurations for the EZBoards as well as pre-compiled firmware BIN files for them.
 
